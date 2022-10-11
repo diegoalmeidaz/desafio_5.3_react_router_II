@@ -1,0 +1,12 @@
+.active {
+    color: white;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin-top: 50px;
+    align-items: center;
+}
