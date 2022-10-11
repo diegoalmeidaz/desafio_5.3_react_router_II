@@ -1,3 +1,9 @@
+# New Challenge with focus on using useParam, and Rounting, 2.0. An excercise which asked to connect to the poke api.
+Review the project on github: https://github.com/diegoalmeidaz/desafio_5.3_react_router_II
+Review the project deployed on netlify: https://app.netlify.com/sites/lustrous-centaur-0142ac/overview
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
